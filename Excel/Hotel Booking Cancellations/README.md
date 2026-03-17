@@ -66,7 +66,5 @@ Dataset used for learning and analysis purposes.
 
 ---
 
-## 📸 Dashboard Preview
 
-![Dashboard Image](Screenshot%202026-03-17%20133244.png)
 
