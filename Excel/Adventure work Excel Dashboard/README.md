@@ -83,6 +83,4 @@ Aspiring Data Analyst
 
 Skilled in Excel, Power Query, Power BI, Python, Data Visualization
 
-⭐ If you like this project
 
-Give this repository a ⭐ on GitHub
