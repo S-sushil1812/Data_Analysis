@@ -66,7 +66,7 @@ https://github.com/S-sushil1812
 
 ### 📊 Exploratory Data Analysis (EDA)
 
-* Conducted analys using **Python (Pandas, NumPy, Matplotlib)**
+* Conducted analysis using **Python (Pandas, NumPy, Matplotlib)**
 * Identified trends, correlations, and patterns in datasets
 * Created visualizations to support data-driven decisions
 
