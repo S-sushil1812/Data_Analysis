@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Sushil Singh
+# 👋 Hi, 
+
+I'm Sushil Singh
 
 📊 Aspiring Data Analyst skilled in data cleaning, exploratory analysis, and visualization.
 
