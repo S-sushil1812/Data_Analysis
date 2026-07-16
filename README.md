@@ -8,7 +8,7 @@ I enjoy uncovering patterns in data and presenting insights through interactive 
 
 ## 🚀 About Me
 
-* 🎓 Bachelor's Student (Graduating in **2026**)
+* 🎓 Bachelor's Student
 * 📊 Interested in **Data Analytics & Data Visualization**
 * 🧠 Skilled in **Exploratory Data Analysis (EDA)**
 * 📈 Passionate about **Dashboard Development & Business Insights**
